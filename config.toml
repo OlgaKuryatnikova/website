@@ -7,7 +7,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.roweno.nl/"
+baseurl = "http://www.kuryatnikova.com/"
 
 
 
@@ -68,7 +68,7 @@ enableGitInfo = false
   email = "kuryatnikova@ese.eur.nl"
   address = "Room ET-02, Department of Econometrics, Burg. Oudlaan 50, 3062 PA Rotterdam, the Netherlands"
   office_hours = "By appointment"
-  phone = "+31 616125543"
+  # phone = "+31 616125543"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
