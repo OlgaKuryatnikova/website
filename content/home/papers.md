@@ -15,11 +15,13 @@ weight = 11
 
 +++
 
-- Heijmans, R.J.R.K. (2020). [The Global Climate Game](https://www.roweno.nl/files/TheGlobalClimateGame.pdf). Job Market Paper.
-- Gerlagh, R., & Heijmans, R.J.R.K. (2019). [Climate-Conscious Consumers and the Buy, Bank, Burn Program](https://www.nature.com/articles/s41558-019-0482-0). _Nature Climate Change_, 9(6), 431-433.
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K.E. (2020). [COVID-19 Tests the Market Stability Reserve](https://link.springer.com/article/10.1007/s10640-020-00441-0). _Environmental and Resource Economics_, 76(4), 855-865.
-- Gerlagh, R., Heijmans, R.J.R.K., & Rosendahl, K. E. (2021). [An Endogenous Emission Cap Produces a Green Paradox](https://www.roweno.nl/files/GreenParadox.pdf). Conditionally accepted for publication in _Economic Policy_.
-- Gerlagh, R., & Heijmans, R.J.R.K. (2020). [Regulating Stock Externalities](https://www.roweno.nl/files/RegulatingStockExternalities.pdf). Submitted.
-- Heijmans, R.J.R.K., & Moura, A. (2020). [Efficient Epidemics: Contagion, Control, and Cooperation in a Global Game](https://www.roweno.nl/files/EfficientEpidemics.pdf). Submitted.
-- Heijmans, R.J.R.K., & Gerlagh, R. (2020). [Linking Cap-and-trade Schemes Under Asymmetric Uncertainty](https://www.roweno.nl/files/LinkingCapAndTrade.pdf).
-- Heijmans, R.J.R.K. (2020). [Sequential Global Games](https://www.roweno.nl/files/SequentialGlobalGames.pdf).
+- Kuryatnikova, O. & Vera, J.C. (2020). [New Bounds for Truthful Scheduling on Two Unrelated Selfish Machines](https://link.springer.com/article/10.1007/s00224-019-09927-x).
+- Kuryatnikova, O. & Vera, J.C. (2019). [Generalizations of Schoenberg's theorem on positive definite kernels](https://arxiv.org/pdf/1904.02538.pdf). _arXiv preprint arXiv:1904.02538_
+- Kuryatnikova, O. & Vera, J.C. (2017). [Approximating the cone of copositive kernels to estimate the stability number of infinite graphs](https://www.sciencedirect.com/science/article/abs/pii/S1571065317302913). _Electronic Notes in Discrete Mathematics_, 62, 303-308.
+- Sotirov, R., Kuryatnikova, O. & Vera, J.C. (2017). [The maximum _k_-colorable subgraph problem and related problems](https://arxiv.org/pdf/2001.09644.pdf). 
+- Kuryatnikova, O. & Vera, J.C. (2018). [Positive semidefinite approximations to the cone of copositive kernels](https://arxiv.org/pdf/1812.00274.pdf).
+- Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2019). [Copositive certificates of non-negativity for polynomials on semialgebraic sets](https://arxiv.org/pdf/1909.06689.pdf).
+
+
+
+
