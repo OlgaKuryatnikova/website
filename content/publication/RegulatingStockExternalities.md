@@ -1,13 +1,13 @@
 +++
 # Abstract and optional shortened version.
-abstract = "We develop a dynamic regulation game for a stock externality under asymmetric information and future market uncertainty. Within this framework, regulation is characterized as the implementation of a welfare-maximization program conditional on informational constraints. We identify the most general executable such programs and find these yield simple and intuitive policy rules. We apply our theory to carbon dioxide emissions trading schemes and find substantial welfare gains are possible, compared to current practices."
+abstract = "Abstract here (need to discover how to type math in Git)"
 abstract_short = ""
 
-title = "Regulating Stock Externalities"
-date = "2020-10-03"
+title = "New Bounds for Truthful Scheduling on Two Unrelated Selfish Machines"
+date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans"]
+authors = ["J.C. Vera", "O. Kuryatnikova"]
 
 # Publication type.
 # Legend:
@@ -18,10 +18,10 @@ authors = ["[R. Gerlagh](http://www.gerlagh.nl)", "R.J.R.K. Heijmans"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "Theory of Computing Systems"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
@@ -35,8 +35,8 @@ math = true
 highlight = true
 
 
-url_pdf = "files/RegulatingStockExternalities.pdf"
+url_pdf = "files/NewBounds.pdf"
 
-url_custom = [{name = "Slides", url = "https://www.roweno.nl/files/RegulatingStockExternalitiesSlides.pdf"}]
+
 
 +++
