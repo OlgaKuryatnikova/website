@@ -12,11 +12,11 @@ baseurl = "http://www.roweno.nl/"
 
 
 # Title of your site
-title = "Roweno J. R. K. Heijmans" 
+title = "Olga Kuryatnikova" 
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020 R.J.R.K. Heijmans"
+copyright = "&copy; 2021 O. Kuryatnikova"
 
 theme = "academic"
 enableEmoji = true
@@ -29,7 +29,7 @@ paginate = 10
 disqusShortname = " "
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-127893294-2"
+# googleAnalytics = "UA-127893294-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -54,15 +54,15 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Roweno J.R.K. Heijmans"
-  role = "PhD Candidate"
+  name = "Olga Kuryatnikova"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Tilburg University", url = "" } ]
+  organizations = [ { name = "Erasmus University Rotterdam", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Roweno-klein.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "chriuchriuga.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "r.j.r.k.heijmans(at)uvt(dot)nl"
