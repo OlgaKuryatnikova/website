@@ -197,7 +197,7 @@ enableGitInfo = false
     'Report',  # 4
     'Book',  # 5
     'Book section',  # 6
-    'Working paper', # 7
+    'Preprint', # 7
     'Work in progress', #8
     'job market paper', #9
   ]
@@ -299,7 +299,7 @@ enableGitInfo = false
   
   [[menu.main]]
   name = "Preprints"
-  url = "#wp"
+  url = "#preprint"
   weight = 4
   
    [[menu.main]]
