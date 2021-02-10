@@ -112,7 +112,7 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "32372816_1102784879864008_6850959366720323584_n.jpg"
+  sharing_image = "chriuchriuga.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = ""
