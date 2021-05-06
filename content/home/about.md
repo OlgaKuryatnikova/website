@@ -9,9 +9,7 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
-    "complicated stuff",
-  ]
+  interests = [] 
 
 # List your qualifications (such as academic degrees).
 
