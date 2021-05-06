@@ -12,5 +12,5 @@ weight = 35
 
 
 +++
-A full version of my CV is available [here](http://www.roweno.nl/files/CV.pdf).
+A full version of my CV is available [here](http://www.kuryatnikova.com/files/CV.pdf).
 
