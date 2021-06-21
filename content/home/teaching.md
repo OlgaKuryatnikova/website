@@ -15,5 +15,5 @@ weight = 60
 
 +++
 
-- Matrix algebra (2020)
-- Linear Proframming (2020)
+- Optimization Under Uncertainty (2021)
+- Linear Programming (2020)
