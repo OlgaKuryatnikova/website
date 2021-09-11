@@ -16,21 +16,21 @@ weight = 5
 [[education.courses]]
   course = "PhD in Operations Research"
   institution = "Tilburg University"
-  year = 2019
+  year = 2015-2019
   
 [[education.courses]]
-  course = "MSc (Research) Operations Research (cum laude)"
+  course = "MSc Econometrics and Operations Research (cum laude)"
   institution = "Tilburg University"
-  year = 2015
+  year = 2013-2015
 
 [[education.courses]]
-  course = "MSc Econometrics (cum laude)"
-  institution = "Tilburg University"
-  year = 2014
+  course = "MSc Financial Economics (cum laude)"
+  institution = "Higher School of Economics"
+  year = 2010-2012
  
 +++
 
 # Biography
 Welcome to my website!
 
-My main research direction is conic optimization, and in particular, polynomial, copositive and semidefinite programming. In my PhD dissertation, I applied conic optimization and symmetry reduction techniques to solve hard optimization problems. Before joining academia, I worked as a credit risk analyst in Russia.
+My main research direction is non-linear optimization. I develop solution approaches and approximation algorithms for non-linear optimization problems using polynomial, convex and conic programming. My PhD dissertation focused on conic optimization and symmetry reduction techniques. Before joining academia, I worked as a credit risk analyst in Russia.
