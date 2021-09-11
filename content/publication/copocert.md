@@ -1,7 +1,7 @@
 +++
 # Abstract and optional shortened version.
 abstract = "A certificate of non-negativity is a way to write a given function so that its
-non-negativity becomes evident. Certicates of non-negativity are fundamental tools in optimization, and
+non-negativity becomes evident. Certificates of non-negativity are fundamental tools in optimization, and
 they underlie powerful algorithmic techniques for various types of optimization problems. In this paper
 we propose a universal approach to constructing new certificates of non-negativity from the existing ones.
 Using this approach, we prove the existence of Schmudgen-like certificates of non-negativity for any compact
