@@ -1,13 +1,13 @@
 +++
 # Abstract and optional shortened version.
-abstract = "By manipulating EU ETS through the Buy, Bank, Burn program, unregulated emissions are compensated while a substantial part of the burden is levied on regulated sectors. This distorts the balance between regulated firms and non-regulated projects, allowing climate-conscious consumers to be virtuous at the cost of others."
+abstract = "The maximum k-colorable subgraph (MkCS) problem is to find an induced k-colorable subgraph with maximum cardinality in a given graph. This paper is an in-depth analysis of the MkCS problem that considers various semidefinite programming relaxations, including their theoretical and numerical comparisons. To simplify these relaxations, we exploit the symmetry arising from permuting the colors, as well as the symmetry of the given graphs when applicable. We also show how to exploit invariance under permutations of the subsets for other partition problems and how to use the MkCS problem to derive bounds on the chromatic number of a graph. Our numerical results verify that the proposed relaxations provide strong bounds for the MkCS problem and that those outperform existing bounds for most of the test instances."
 abstract_short = ""
 
-title = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
-date = "2019-06-13"
+title = "The Maximum k-Colorable Subgraph Problem and Related Problems"
+date = "2021-08-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["[R. Gerlagh](http://www.gerlagh.nl)","R.J.R.K. Heijmans"]
+authors = ["Olga Kuryatnikova","Renata Sotirov","Juan C Vera"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -20,7 +20,7 @@ authors = ["[R. Gerlagh](http://www.gerlagh.nl)","R.J.R.K. Heijmans"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Nature Climate Change"
+publication = "INFORMS Journal on Computing"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
@@ -33,9 +33,9 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "https://www.nature.com/articles/s41558-019-0482-0"
+url_pdf = "https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1086"
 
-url_custom = [{name = "Slides", url = "http://www.roweno.nl/files/BuyBankBurnSlides.pdf"}]
+# slides publication: url_custom = [{name = "Slides", url = "http://www.roweno.nl/files/BuyBankBurnSlides.pdf"}]
 
 
 +++
