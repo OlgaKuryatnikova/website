@@ -33,4 +33,4 @@ weight = 5
 # Biography
 Welcome to my website!
 
-My main research direction is conic optimization, and in particular, polynomial, copositive and semidefinite programming. In my PhD dissertation, I applied conic optimization and symmetry reduction techniques to solve hard optimization problems. Before joining academia, I worked as a financial analyst in a rating agency in Russia.
+My main research direction is conic optimization, and in particular, polynomial, copositive and semidefinite programming. In my PhD dissertation, I applied conic optimization and symmetry reduction techniques to solve hard optimization problems. Before joining academia, I worked as a credit risk analyst in Russia.
