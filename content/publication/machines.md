@@ -6,7 +6,7 @@ This class contains the most efficient algorithms known for truthful scheduling 
 We propose a new Min − Max formulation for Rn, as well as upper and lower bounds on Rn based on this formulation. 
 For the lower bound, we exploit pointwise approximations of cumulative distribution functions (CDFs). 
 For the upper bound, we construct randomized algorithms using distributions with piecewise rational CDFs. 
-Our method improves upon the existing bounds on Rn for small n. In particular, we obtain almost tight bounds for n = 2 showing that |R2 − 1.505996| < 10− 6."
+Our method improves upon the existing bounds on Rn for small n."
 abstract_short = ""
 
 title = "New bounds for truthful scheduling on two unrelated selfish machines"
