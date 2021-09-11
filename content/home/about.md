@@ -24,7 +24,7 @@ weight = 5
   year = 2013-2015
 
 [[education.courses]]
-  course = "MSc Financial Economics (cum laude)"
+  course = "MSc Financial Economics"
   institution = "Higher School of Economics"
   year = 2010-2012
  
