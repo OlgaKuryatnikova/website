@@ -1,15 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "A certificate of non-negativity is a way to write a given function so that its
-non-negativity becomes evident. Certificates of non-negativity are fundamental tools in optimization, and
-they underlie powerful algorithmic techniques for various types of optimization problems. In this paper
-we propose a universal approach to constructing new certificates of non-negativity from the existing ones.
-Using this approach, we prove the existence of Schmudgen-like certificates of non-negativity for any compact
-semialgebraic set based on any class of non-negative polynomials such as SOS, DSOS, SDSOS, hyperbolic,
-SONC, and SAGE polynomials. Unlike typical proofs that make use of algebraic geometry tools, our proofs
-are done using only convex analysis. As an illustration, we show how to use certificates of non-negativity
-over a simplex (resp. the non-negative orthant) to obtain certificates of non-negativity over
-a compact (resp. generic) semialgebraic set."
+abstract = "A certificate of non-negativity is a way to write a given function so that its non-negativity becomes evident. Certificates of non-negativity are fundamental tools in optimization, and they underlie powerful algorithmic techniques for various types of optimization problems. In this paper we propose a universal approach to constructing new certificates of non-negativity from the existing ones. Using this approach, we prove the existence of Schmudgen-like certificates of non-negativity for any compact semialgebraic set based on any class of non-negative polynomials such as SOS, DSOS, SDSOS, hyperbolic, SONC, and SAGE polynomials. Unlike typical proofs that make use of algebraic geometry tools, our proofs are done using only convex analysis. As an illustration, we show how to use certificates of non-negativity over a simplex (resp. the non-negative orthant) to obtain certificates of non-negativity over a compact (resp. generic) semialgebraic set."
 abstract_short = ""
 
 title = "The copositive way to obtain certificates of non-negativity over general semialgebraic sets"
