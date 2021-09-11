@@ -1,8 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "We consider the minimum makespan problem for n tasks and two unrelated parallel selfish machines. 
-Let Rn be the best approximation ratio of randomized monotone scale-free algorithms. 
-This class contains the most efficient algorithms known for truthful scheduling on two machines."
+abstract = "We consider the minimum makespan problem for n tasks and two unrelated parallel selfish machines."
 abstract_short = ""
 
 title = "New bounds for truthful scheduling on two unrelated selfish machines"
