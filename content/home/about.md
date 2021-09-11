@@ -33,4 +33,4 @@ weight = 5
 # Biography
 Welcome to my website!
 
-I am an assistant professor at Econometric Institute of Erasmus University Rotterdam, working as a part of the Optimization group. In my research I develop solution approaches and approximation algorithms for non-linear optimization problems using polynomial, convex and conic programming. I am interested in both theory of optimization and applications to real-world problems. My PhD dissertation focused on conic optimization and symmetry reduction techniques. Before joining academia, I worked as a credit risk analyst in Russia.
+I am an assistant professor at the Econometric Institute of Erasmus University Rotterdam, working as a part of the Optimization group. In my research I develop solution approaches and approximation algorithms for non-linear optimization problems using polynomial, convex and conic programming. I am interested in both theory of optimization and applications to real-world problems. My PhD dissertation focused on conic optimization and symmetry reduction techniques. Before joining academia, I worked as a credit risk analyst in Russia.
