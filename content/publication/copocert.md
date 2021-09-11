@@ -13,7 +13,7 @@ a compact (resp. generic) semialgebraic set."
 abstract_short = ""
 
 title = "The copositive way to obtain certificates of non-negativity over general semialgebraic sets"
-date = "2021"
+date = "2021-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Olga Kuryatnikova", "Juan C. Vera", "Luis F. Zuluaga"]
