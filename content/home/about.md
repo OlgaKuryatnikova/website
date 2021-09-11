@@ -16,17 +16,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Operations Research"
   institution = "Tilburg University"
-  year = 2015-2019
+  year = 2019
   
 [[education.courses]]
   course = "MSc Econometrics and Operations Research (cum laude)"
   institution = "Tilburg University"
-  year = 2013-2015
+  year = 2015
 
 [[education.courses]]
   course = "MSc Financial Economics"
   institution = "Higher School of Economics"
-  year = 2010-2012
+  year = 2012
  
 +++
 
