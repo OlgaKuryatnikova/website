@@ -13,17 +13,17 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 
-[education.courses]
+[[education.courses]]
   course = "PhD in Operations Research"
   institution = "Tilburg University"
   year = 2019
   
-[education.courses]
+[[education.courses]]
   course = "MSc Econometrics and Operations Research (cum laude)"
   institution = "Tilburg University"
   year = 2015
 
-[education.courses]
+[[education.courses]]
   course = "MSc Financial Economics"
   institution = "Higher School of Economics"
   year = 2012
