@@ -1,37 +1,41 @@
 +++
+# Abstract and optional shortened version.
+abstract = "By manipulating EU ETS through the Buy, Bank, Burn program, unregulated emissions are compensated while a substantial part of the burden is levied on regulated sectors. This distorts the balance between regulated firms and non-regulated projects, allowing climate-conscious consumers to be virtuous at the cost of others."
+abstract_short = ""
 
-Abstract and optional shortened version.
-abstract = "A certificate of non-negativity is a way to write a given function so that its non-negativity becomes evident. Certificates of non-negativity are fundamental tools in optimization, and they underlie powerful algorithmic techniques for various types of optimization problems. In this paper we propose a universal approach to constructing new certificates of non-negativity from the existing ones. Using this approach, we prove the existence of Schmudgen-like certificates of non-negativity for any compact semialgebraic set based on any class of non-negative polynomials such as SOS, DSOS, SDSOS, hyperbolic, SONC, and SAGE polynomials. Unlike typical proofs that make use of algebraic geometry tools, our proofs are done using only convex analysis. As an illustration, we show how to use certificates of non-negativity over a simplex (resp. the non-negative orthant) to obtain certificates of non-negativity over a compact (resp. generic) semialgebraic set." abstract_short = ""
+title = "Climate-Conscious Consumers and the Buy, Bank, Burn Program"
+date = "2019-06-13"
 
-title = "The copositive way to obtain certificates of non-negativity over general semialgebraic sets" date = "2021-01-01"
-
-Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Olga Kuryatnikova", "Juan C. Vera", "Luis F. Zuluaga"]
-
-Publication type.
-Legend:
-0 = Uncategorized
-1 = Conference proceedings
-2 = Journal
-3 = Work in progress
-4 = Technical report
-5 = Book
-6 = Book chapter
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["[R. Gerlagh](http://www.gerlagh.nl)","R.J.R.K. Heijmans"]
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
 publication_types = ["2"]
 
-Publication name and optional abbreviated version.
-publication = "Submitted, placed on arXiv:1909.06689" publication_short = ""
+# Publication name and optional abbreviated version.
+publication = "Nature Climate Change"
+publication_short = ""
 
-Is this a selected publication? (true/false)
+# Is this a selected publication? (true/false)
 selected = false
 
-Does the content use math formatting?
+
+# Does the content use math formatting?
 math = true
 
-Does the content use source code highlighting?
+# Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "https://arxiv.org/abs/1909.06689"
+url_pdf = "https://www.nature.com/articles/s41558-019-0482-0"
 
-for slides: url_custom = [{name = "Slides", url = "http://www.roweno.nl/files/BuyBankBurnSlides.pdf"}]
+url_custom = [{name = "Slides", url = "http://www.roweno.nl/files/BuyBankBurnSlides.pdf"}]
+
+
 +++
