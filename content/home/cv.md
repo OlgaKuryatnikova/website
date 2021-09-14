@@ -13,5 +13,5 @@ weight = 35
 
 +++
 A short version of my CV is available [here](http://www.kuryatnikova.com/files/Kuryatnikova_CV_indC.pdf).
-You can find the full version of my CV [here](http://www.kuryatnikova.com/files/Kuryatnikova_CV_acd.pdf).
+You can find the full version of my CV [here](http://www.kuryatnikova.com/files/KuryatnikovaCV_acd.pdf).
 
