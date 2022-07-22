@@ -18,5 +18,3 @@ Lecturer and course coordinator:
 
 - Optimization Under Uncertainty, Master's, Erasmus University Rotterdam (2021, 2022)
 - Linear Programming, Bachelor's, Erasmus University Rotterdam (2021, 2022)
-
-During my PhD, I have also worked as a teaching assistant in several bachelor's and master's courses at Tilburg University (optimization, business analytics, statistics).
