@@ -19,12 +19,12 @@ interests = ["Non-linear optimization", "Convex optimization", "Integer programm
   year = 2019
   
 [[education.courses]]
-  course = "MSc Econometrics and Operations Research (cum laude)"
+  course = "MSc in Econometrics and Operations Research (cum laude)"
   institution = "Tilburg University"
   year = 2015
 
 [[education.courses]]
-  course = "MSc Financial Economics"
+  course = "MSc in Financial Economics"
   institution = "Higher School of Economics"
   year = 2012
  
