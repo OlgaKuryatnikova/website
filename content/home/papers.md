@@ -22,6 +22,7 @@ weight = 11
 - Kuryatnikova, O. & Vera, J.C. (2018). [Positive semidefinite approximations to the cone of copositive kernels](https://arxiv.org/pdf/1812.00274.pdf).
 - Kuryatnikova, O. & Vera, J.C. (2017). [Approximating the cone of copositive kernels to estimate the stability number of infinite graphs](https://www.sciencedirect.com/science/article/abs/pii/S1571065317302913). _Electronic Notes in Discrete Mathematics_, 62, 303-308.
 
++++
 Currently I am working on the following topics, for which no preprints are available yet:
 - Influence of battery and demand response agents on electricity market emmissions under varying market conditions
 - Optimal bidding strategies for battery and demand response agents 
