@@ -16,10 +16,10 @@ weight = 11
 
 Below is the list of my publications and preprints.
 
-- Kuryatnikova, O. & Ghaddar, B., Molzahn, D.K. (2021). [Adjustable Robust Two-Stage Polynomial Optimization with Application to AC Optimal Power Flow](https://arxiv.org/abs/2104.03107).
+- Kuryatnikova, O. & Ghaddar, B., Molzahn, D.K. (2021). [Two-Stage Robust Quadratic Optimization with Equalities and its Application to Optimal Power Flow](https://arxiv.org/abs/2104.03107).
 - Sotirov, R., Kuryatnikova, O. & Vera, J.C. (2021). [The maximum _k_-colorable subgraph problem and related problems](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1086). _Informs Journal on Computing_.
 - Kuryatnikova, O. & Vera, J.C. (2020). [New Bounds for Truthful Scheduling on Two Unrelated Selfish Machines](https://link.springer.com/article/10.1007/s00224-019-09927-x). _Theory of Computing Systems_, 64, 199-226
-- Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2019). [Copositive certificates of non-negativity for polynomials on semialgebraic sets](https://arxiv.org/pdf/1909.06689.pdf).
+- Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2019). [Reducing non-negativity over general semialgebraic sets to non-negativity over simple sets](https://arxiv.org/pdf/1909.06689.pdf).
 - Kuryatnikova, O. & Vera, J.C. (2019). [Generalizations of Schoenberg's theorem on positive definite kernels](https://arxiv.org/pdf/1904.02538.pdf). 
 - Kuryatnikova, O. & Vera, J.C. (2018). [Positive semidefinite approximations to the cone of copositive kernels](https://arxiv.org/pdf/1812.00274.pdf).
 - Kuryatnikova, O. & Vera, J.C. (2017). [Approximating the cone of copositive kernels to estimate the stability number of infinite graphs](https://www.sciencedirect.com/science/article/abs/pii/S1571065317302913). _Electronic Notes in Discrete Mathematics_, 62, 303-308.
