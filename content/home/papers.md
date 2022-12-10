@@ -26,7 +26,7 @@ Below is the list of my publications and preprints.
 
 I am also working on the following topics, for which no preprints are available yet.
 
-- Influence of battery and demand response agents on electricity market emissions under varying market conditions
-- Optimal bidding strategies for battery and demand response agents
+- Influence of battery operators and demand response on electricity market emissions under varying market conditions
+- Optimal bidding strategies for battery operators
 - Sparse positive semidefinite relaxations for water networks problems
 - Positive semidefinite hierarchies for the maximum measurable distance avoiding set problem
