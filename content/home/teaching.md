@@ -17,4 +17,5 @@ weight = 60
 Lecturer and course coordinator:
 
 - Optimization under Uncertainty (state-of-the-art robust and stochastic optimization methods), Master's, Erasmus University Rotterdam (2021, 2022)
+
 - Linear Programming (mathematical modeling and solution methods for linear optimization), Bachelor's, Erasmus University Rotterdam (2021, 2022)
