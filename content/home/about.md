@@ -32,4 +32,5 @@ interests = ["Non-linear optimization", "Convex and conic optimization", "Intege
 +++
 # Welcome to my website!
 
+
 I am an assistant professor at the Econometric Institute of Erasmus University Rotterdam, working as a part of the Optimization group. In my research I develop solution approaches and approximation algorithms for non-linear optimization problems using convex programming. I am interested in both theory and real-world applications. At the moment I mostly work with optimization problems related to energy systems and electricity markets. Before joining academia, I worked in industry as a financial analyst.
