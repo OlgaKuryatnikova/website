@@ -1,6 +1,7 @@
 +++
 # About/Biography widget.
 widget = "about"
+
 title = "Welcome to my website!"
 subtitle = ""
 
