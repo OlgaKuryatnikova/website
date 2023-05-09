@@ -15,6 +15,7 @@ weight = 11
 +++
 
 Below is the list of my publications and preprints.
+
 - Bekker, B., de Oliveira, F.M., Kuryatnikova, O., Vera, J.C (2023). [Optimization hierarchies for distance-avoiding sets in compact spaces](https://arxiv.org/pdf/2304.05429.pdf)
 - Kuryatnikova, O., Ghaddar, B., Molzahn, D.K. (2021). [Two-stage robust quadratic optimization with equalities and its application to optimal power flow](https://arxiv.org/abs/2104.03107).
 - Kuryatnikova, O., Sotirov, R., Vera, J.C. (2021). [The maximum _k_-colorable subgraph problem and related problems](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1086). _Informs Journal on Computing_, 34, 656-669.
@@ -29,4 +30,3 @@ I am also working on the following topics, for which no preprints are available 
 - Influence of battery operators and demand response on electricity market emissions under varying market conditions
 - Optimal bidding strategies for battery operators
 - Sparse positive semidefinite relaxations for water networks problems
-- Positive semidefinite hierarchies for the maximum measurable distance avoiding set problem
