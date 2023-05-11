@@ -294,10 +294,10 @@ enableGitInfo = false
   url = "#papers"
   weight = 2
 
-[[menu.main]]
-  name = "Publications"
-  url = "#pubs"
-  weight = 3
+# [[menu.main]]
+#  name = "Publications"
+#  url = "#pubs"
+#  weight = 3
   
  # [[menu.main]]
  # name = "Preprints"
