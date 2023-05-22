@@ -33,3 +33,4 @@ I am also working on the following topics, for which no preprints are available 
 - Influence of battery operators and demand response on electricity market emissions under varying market conditions
 - Optimal bidding strategies for battery operators
 - Sparse positive semidefinite relaxations for water networks problems
+- Designing networks of shared remote offices in large cities
