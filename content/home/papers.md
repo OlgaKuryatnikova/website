@@ -23,14 +23,14 @@ Publications.
 
 Preprints.
 
-- Bekker, B., de Oliveira, F.M., Kuryatnikova, O., Vera, J.C (2023). [Optimization hierarchies for distance-avoiding sets in compact spaces](https://arxiv.org/pdf/2304.05429.pdf)
-- Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2019). [Reducing non-negativity over general semialgebraic sets to non-negativity over simple sets](https://arxiv.org/pdf/1909.06689.pdf).
-- Kuryatnikova, O. & Vera, J.C. (2019). [Generalizations of Schoenberg's theorem on positive definite kernels](https://arxiv.org/pdf/1904.02538.pdf).
-- Kuryatnikova, O. & Vera, J.C. (2018). [Positive semidefinite approximations to the cone of copositive kernels](https://arxiv.org/pdf/1812.00274.pdf).
+- Bekker, B., de Oliveira, F.M., Kuryatnikova, O., Vera, J.C (2023). [Optimization hierarchies for distance-avoiding sets in compact spaces](https://arxiv.org/pdf/2304.05429.pdf), submitted.
+- Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2019). [Reducing non-negativity over general semialgebraic sets to non-negativity over simple sets](https://arxiv.org/pdf/1909.06689.pdf), minor revision at _SIAM Journal on Optimization_.
+- Kuryatnikova, O. & Vera, J.C. (2019). [Generalizations of Schoenberg's theorem on positive definite kernels](https://arxiv.org/pdf/1904.02538.pdf), submitted.
+- Kuryatnikova, O. & Vera, J.C. (2018). [Positive semidefinite approximations to the cone of copositive kernels](https://arxiv.org/pdf/1812.00274.pdf), under revision.
 
 I am also working on the following topics, for which no preprints are available yet.
 
 - Influence of battery operators and demand response on electricity market emissions under varying market conditions.
-- Optimal bidding strategies for battery operators.
+# - Optimal bidding strategies for battery operators.
 - Sparse positive semidefinite relaxations for water networks problems.
 - Designing a network of shared remote offices in Mexico City.
