@@ -10,7 +10,7 @@ weight = 5
 
 # List your academic interests.
 [interests]
-interests = ["Non-linear optimization", "Convex and conic optimization", "Integer programming", "Energy systems and electricity", "Machine learning"] 
+interests = ["Non-linear optimization", "Convex and conic optimization", "Integer programming", "Energy systems and electricity", "Machine learning", "Economics"] 
 
 # List your qualifications (such as academic degrees).
 
