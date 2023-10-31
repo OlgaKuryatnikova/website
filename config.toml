@@ -12,7 +12,7 @@ baseurl = "https://www.kuryatnikova.com/"
 
 
 # Title of your site
-title = "Olga Kuryatnikova" 
+title = "Olga Heijmans-Kuryatnikova" 
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,7 +55,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Olga Kuryatnikova"
+  name = "Olga Heijmans-Kuryatnikova"
   role = "Assistant Professor"
 
   # Organizations/Affiliations.
