@@ -15,7 +15,7 @@ weight = 11
 +++
 
 Publications.
-
+- - Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2024). [Reducing non-negativity over general semialgebraic sets to non-negativity over simple sets](https://arxiv.org/pdf/1909.06689.pdf), accepted at _SIAM Journal on Optimization_.
 - Kuryatnikova, O., Ghaddar, B., Molzahn, D.K. (2023). [Two-stage robust quadratic optimization with equalities and its application to optimal power flow](https://arxiv.org/abs/2104.03107). _SIAM Journal on Optimization_, 33(4): 2830-57.
 - Kuryatnikova, O., Sotirov, R., Vera, J.C. (2021). [The maximum _k_-colorable subgraph problem and related problems](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1086). _Informs Journal on Computing_, 34, 656-669.
 - Kuryatnikova, O. & Vera, J.C. (2020). [New Bounds for Truthful Scheduling on Two Unrelated Selfish Machines](https://link.springer.com/article/10.1007/s00224-019-09927-x). _Theory of Computing Systems_, 64, 199-226
@@ -24,7 +24,6 @@ Publications.
 Preprints.
 
 - Bekker, B., de Oliveira, F.M., Kuryatnikova, O., Vera, J.C (2023). [Optimization hierarchies for distance-avoiding sets in compact spaces](https://arxiv.org/pdf/2304.05429.pdf), submitted.
-- Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2019). [Reducing non-negativity over general semialgebraic sets to non-negativity over simple sets](https://arxiv.org/pdf/1909.06689.pdf), minor revision at _SIAM Journal on Optimization_.
 - Kuryatnikova, O. & Vera, J.C. (2019). [Generalizations of Schoenberg's theorem on positive definite kernels](https://arxiv.org/pdf/1904.02538.pdf), submitted.
 - Kuryatnikova, O. & Vera, J.C. (2018). [Positive semidefinite approximations to the cone of copositive kernels](https://arxiv.org/pdf/1812.00274.pdf), under revision.
 
