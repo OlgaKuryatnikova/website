@@ -17,7 +17,7 @@ weight = 11
 Publications.
 
 - Kuryatnikova, O., Vera, J.C., & Zuluga, L.F. (2024). [Reducing non-negativity over general semialgebraic sets to non-negativity over simple sets](https://arxiv.org/pdf/1909.06689.pdf), accepted at _SIAM Journal on Optimization_.
-- Kuryatnikova, O., Ghaddar, B., Molzahn, D.K. (2023). [Two-stage robust quadratic optimization with equalities and its application to optimal power flow](https://arxiv.org/abs/2104.03107). _SIAM Journal on Optimization_, 33(4): 2830-57.
+- Kuryatnikova, O., Ghaddar, B., Molzahn, D.K. (2023). [Two-stage robust quadratic optimization with equalities and its application to optimal power flow](https://epubs.siam.org/doi/abs/10.1137/22M1469651?journalCode=sjope8). _SIAM Journal on Optimization_, 33(4): 2830-57.
 - Kuryatnikova, O., Sotirov, R., Vera, J.C. (2021). [The maximum _k_-colorable subgraph problem and related problems](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1086). _Informs Journal on Computing_, 34, 656-669.
 - Kuryatnikova, O. & Vera, J.C. (2020). [New Bounds for Truthful Scheduling on Two Unrelated Selfish Machines](https://link.springer.com/article/10.1007/s00224-019-09927-x). _Theory of Computing Systems_, 64, 199-226
 - Kuryatnikova, O. & Vera, J.C. (2017). [Approximating the cone of copositive kernels to estimate the stability number of infinite graphs](https://www.sciencedirect.com/science/article/abs/pii/S1571065317302913). _Electronic Notes in Discrete Mathematics_, 62, 303-308.
