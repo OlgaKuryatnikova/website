@@ -16,6 +16,8 @@ weight = 60
 +++
 Lecturer and course coordinator:
 
+- Convex Analysis for Optimization, PhD, Dutch Network on the Mathematics of Operations Research (LNMB) (2024 - now)
+
 - Optimization under Uncertainty (state-of-the-art robust and stochastic optimization methods), Master's, Erasmus University Rotterdam (2021 - now)
 
 - Linear Programming (mathematical modeling and solution methods for linear optimization), Bachelor's, Erasmus University Rotterdam (2021 - now)
