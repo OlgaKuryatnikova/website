@@ -24,7 +24,7 @@ Publications.
 
 Preprints.
 
-- C. Dupont, O. Kuryatnikova, Y. Ghiassi-Farrokhfal, D. Bunn (2024). [The unintended carbon impacts of electricity storage and demand management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947676), submitted.
+- Dupont, C., Kuryatnikova, O., Ghiassi-Farrokhfal, Y., Bunn, D. (2024). [The unintended carbon impacts of electricity storage and demand management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947676), submitted.
 - Bekker, B., de Oliveira, F.M., Kuryatnikova, O., Vera, J.C (2023). [Optimization hierarchies for distance-avoiding sets in compact spaces](https://arxiv.org/pdf/2304.05429.pdf), submitted.
 - Kuryatnikova, O. & Vera, J.C. (2019). [Generalizations of Schoenberg's theorem on positive definite kernels](https://arxiv.org/pdf/1904.02538.pdf), submitted.
 - Kuryatnikova, O. & Vera, J.C. (2018). [Positive semidefinite approximations to the cone of copositive kernels](https://arxiv.org/pdf/1812.00274.pdf), under revision.
