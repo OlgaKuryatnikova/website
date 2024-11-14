@@ -31,8 +31,5 @@ Preprints under revision.
 
 I am also working on the following topics, for which no preprints are available yet.
 
-+++ 
-Influence of battery operators and demand response on electricity market emissions under varying market conditions.
-+++
 - Sparse positive semidefinite relaxations for water networks problems.
 - Designing a network of shared remote offices in Mexico City.
